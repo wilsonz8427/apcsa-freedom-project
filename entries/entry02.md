@@ -3,11 +3,11 @@
 <br>
 
 #### Introduction
-From the last blog entry, I have research more about home security and how some people
+From the last blog entry, I have researched more about home security and how some people
 prevent robbery through more complex locks and security cameras. I was thinking about
-the possiblity of training an artifical intellienge to detect suspicious people through
-the secuirty cameras or be able to detect lock picking. I was also thinking about a way to
-preent poeple from opening their door to strangers. Is it possible to use camera to detect
+the possibility of training an artificial intelligence to detect suspicious people through
+the security cameras or be able to detect lock picking. I was also thinking about a way to
+prevent people from opening their door to strangers. Is it possible to use camera to detect
 certain keywords from the package that would match a certain information?
 
 __Interesting Articles__
@@ -16,10 +16,10 @@ __Interesting Articles__
 
 #### Decisions
 I decided to work with Shuquan Huang, a classmate who have a similar interest in
-home secuity, to make a secure system to protect residents from outside danger. We
+home security, to make a secure system to protect residents from outside danger. We
 decided to make a secure door system that would need either passcode, fingerprint,
 entrance card or other means of password. We will be using [Arduino](https://www.arduino.cc/)
-to create our lock mechianism and use its programming language to allow it be
+to create our lock mechanism and use its programming language to allow it be
 interactive.
 
 We decided to split our work into multiple parts. We will start with resource gathering
@@ -30,7 +30,7 @@ Learning to be able to create a program that can further protect the house.
 
 #### Engineering Design Process
 We are currently in the step of planning the prototype. We are currently deciding
-on what items we need to buy to start creating the lock mechianism. For now, we
+on what items we need to buy to start creating the lock mechanism. For now, we
 have decided to have a door to put the lock on and a piston lock that will lock
 the door. We also plan to add a camera with the possibility of detecting strangers.
 
