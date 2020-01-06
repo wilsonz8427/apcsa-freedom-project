@@ -8,8 +8,8 @@ During my exploration of Arduino's code, I learned about the code for RFID RC522
 `MFRC522 mfrc522(SS_PIN, RST_PIN);`
 
 <br>
-I was able to review my previous understanding for Arduino by reading [Circuito's](https://www.circuito.io/blog/arduino-code/) blog
-post that recap about a major part of Arduino's code which is the setup() and the loop(). I also noticed
+I was able to review my previous understanding for Arduino by reading a blog entry at
+[Circuito](https://www.circuito.io/blog/arduino-code/) that recap about a major part of Arduino's code which is the setup() and the loop(). I also noticed
 that Arduino's code is built using C/C++ so I also tried to learn some of the basics of C/C++. I find that
 learning Java in class has helped mean learn both Arduino's code and C/C++ much easier, such as creating
 classes and methods.
