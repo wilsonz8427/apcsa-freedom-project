@@ -8,7 +8,7 @@ During my exploration of Arduino's code, I learned about the code for RFID RC522
 `MFRC522 mfrc522(SS_PIN, RST_PIN);`
 
 <br>
-I was able to review my previous understanding for Arduino by reading [Circuito](https://www.circuito.io/blog/arduino-code/)'s blog
+I was able to review my previous understanding for Arduino by reading [Circuito's](https://www.circuito.io/blog/arduino-code/) blog
 post that recap about a major part of Arduino's code which is the setup() and the loop(). I also noticed
 that Arduino's code is built using C/C++ so I also tried to learn some of the basics of C/C++. I find that
 learning Java in class has helped mean learn both Arduino's code and C/C++ much easier, such as creating
@@ -24,13 +24,12 @@ have started to build.
 
 #### Engineering Design Process
 We are currently in the step of creating our prototype. Shuquan has started to build and put
-the parts together onto the breadboard.
-Even though we have started to create our prototype, we still need to learn more about our part
-of the project. For example, I still need to become more comfortable with Arduino's code and how it
-can be used.
+the parts together onto the breadboard. Even though we have started to create our prototype,
+we still need to learn more about our part of the project. For example, I still need to
+become more comfortable with Arduino's code and how it can be used.
 
 #### Skill/Skills
-The two most important skills that I have been developing my skills to be able to use search engine
+The two most important skills that I developed are to be able to use search engine
 efficiency and learn how to read about the important parts of the documentation. Search engines,
 like Google, have ways, such as filtering and using keywords, to make it easier for me to search
 for what I need. For example, my current research goal is to understand the code of Arduino and
