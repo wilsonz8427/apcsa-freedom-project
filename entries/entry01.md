@@ -3,6 +3,7 @@
 
 <br>
 ##### Introduction
+Hello, my name is Wilson Zhang. I am a student 
 Freedom Project is a project where we apply the content that we are learning by ourself to our own creation. Then we are to reflect upon our learning in a blog. Lastly, we present our product and processes to create the project.
 
 <br>
