@@ -79,7 +79,7 @@ void loop() {
 }
 ```
 
-While I was working with Shuquan, the wires connecting the MFRC522 was coming loose and we were unable to find the UID. When Shuquan manually held the wires together and scanned the tags, we were able to get the UID for the tags.
+While I was working with Shuquan, the wires connecting the MFRC522 were coming loose and we were unable to find the UID. When Shuquan manually held the wires together and scanned the tags, we were able to get the UID for the tags.
 
 ![SerialMonitorUID](../picture/SerialMonitorUID.png)
 
@@ -87,7 +87,7 @@ While I was working with Shuquan, the wires connecting the MFRC522 was coming lo
 We are currently on Step 5: Create a Prototype and approaching Step 6: Test and Evaluate the Prototype on the Engineering Design Process. Shuqun have installed the MFRC522 and I am continuing to build the response of the tags. Even though we are still working on our builds, we will very soon start testing and finish our MVP.
 
 #### Skill/Skills
-One skill that I developed was being able to Learn On My Own (LOYO). I had to find proper websites to learn the functions of the RFID. If I did not try to find the the functions, we would not be able to get the UID of each tag. Another skill that I developed was Time Management. I was planning my schedules to give myself enough time to learn. I am currently planning the time for the mid-winter break with Shuquan to get the most time to build and test.
+One skill that I developed was being able to Learn On My Own (LOYO). I had to find proper websites to learn the functions of the RFID. If I did not try to find the the functions, we would not be able to get the UID of each tag. Learning on my own allowed me to learn that it is important to find informative sources and that it is credible and can match other sources. This allows your project to have fewer errors. Another skill that I developed was Time Management. I was planning my schedule to give myself enough time to learn and program. I am currently planning the time for the mid-winter break with Shuquan to get the most time to build and test.
 
 #### Next Steps
 As the break is coming up, I want to start finishing my Minimum Viable Product (MVP) and use the break to work with Shuquan and start testing and fixing  issues that we may have. Since the wire keeps falling, we are going to try to find a way to keep the wire attached (possibly using solder). I am going to continue to program the response of the MFRC522 when it detects the tags. For now, it will print something onto the Serial and eventually be able to move the Solenoid lock.
